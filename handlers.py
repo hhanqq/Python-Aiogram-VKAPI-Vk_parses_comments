@@ -168,7 +168,7 @@ async def get_offset_and_pars(message: Message, state: FSMContext):
                 current_offset += len(data)
 
                 # Отправка результатов пачками
-                gi = await print_info(data=data, query=str(data_req['query']))
+                gi = await print_info(data=data)
                 for i in range(0, len(gi), 10):
                     batch = gi[i:i + 10]
                     await message.answer('\n'.join(batch))
