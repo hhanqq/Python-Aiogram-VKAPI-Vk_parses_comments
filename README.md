@@ -39,7 +39,7 @@ scope=vkid.personal_info&
 redirect_uri=https://oauth.vk.com/blank.html&
 state=XXXRaXXXxxsssssssXXXsdaXXXXssXXXXXXXXXXXXXndomZZZ&
 code_challenge=СГЕНЕРИРОВАННЫЙ_КОД&
-code_challenge_method=S256
+
 
 
 Где:
@@ -62,8 +62,8 @@ code_challenge_method=S256
 
 ### Примеры работы:
 
-![Пример 1](https://github.com/user-attachments/assets/2ba74486-4dc9-42b6-b39c-b678e3697fb4)
+![Пример 1](https://github.com/user-attachments/assets/e1c173e6-93c5-413b-936b-52f473b24f4e)
 
-![Пример 2](https://github.com/user-attachments/assets/9e4d3235-6916-40ce-961c-2c18a42799d8)
+![Пример 2](https://github.com/user-attachments/assets/a74460a4-df97-4bd5-b808-b17970a3d2f9)
 
-![Пример 3](https://github.com/user-attachments/assets/80af5ee1-9ee6-459f-bf89-447850af0c86)
+
